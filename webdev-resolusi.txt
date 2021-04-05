@@ -2,3 +2,5 @@ webdev-resolusi
 = Create program
 = Create platform
 = Create Forum
+= Create Web Shop
+= Kolaborasi dengan yang expert
